@@ -1,0 +1,8 @@
+{
+  "damageMultiplier": 0.6,
+  "reloadMultiplier": 0.65,
+  "healthMultiplier": 0.8,
+  "speedMultiplier": 0.5,
+  "buildSpeedMultiplier": 0.55,
+  "opposites":["jab-ec-amplified"]
+}

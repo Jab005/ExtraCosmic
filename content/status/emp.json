@@ -1,0 +1,9 @@
+{
+  "disarm": true,
+  "speedMultiplier": 0,
+  "dragMultiplier": 0.085,
+  "buildSpeedMultiplier": 0,
+  "hideDetails": false,
+  "affinities":["shocked"],
+  "transitionDamage":21
+}

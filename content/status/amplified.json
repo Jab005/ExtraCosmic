@@ -1,0 +1,8 @@
+{
+  "damageMultiplier": 1.4,
+  "reloadMultiplier": 1.5,
+  "healthMultiplier": 1.2,
+  "speedMultiplier": 1.55,
+  "buildSpeedMultiplier": 1.45,
+  "opposites":["jab-ec-suspended"]
+}
