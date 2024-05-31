@@ -1,0 +1,16 @@
+{
+  "type":"ArmoredConduit",
+  "botColor":"535353",
+  "junctionReplacement":"reinforced-liquid-junction",
+  "bridgeReplacement":"reinforced-bridge-conduit",
+  "rotBridgeReplacement":"reinforced-bridge-conduit",
+  "size":1,
+  "liquidCapacity":30,
+  "liquidPressure":1.1,
+  "underBullets":true,
+  "category":"liquid",
+  "health":380,
+  "requirements":["beryllium/1","tungsten/1"]
+  "researchCostMultiplier":30,
+  "research":"reinforced-conduit"
+}
