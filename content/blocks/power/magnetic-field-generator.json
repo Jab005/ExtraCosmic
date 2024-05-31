@@ -1,0 +1,29 @@
+{
+  "type":"ThermalGenerator",
+  "size":2,
+  "health":820,
+  "requirements":["jab-ec-rheozen/18","jab-ec-candrum/8"],
+  "category":"power",
+  "research":{"parent":"jab-ec-tech-kreten","requirements":["jab-ec-rheozen/36","jab-ec-candrum/18"]}
+  "attribute": "magnetism",
+  "displayEfficiencyScale":0.25,
+  "powerProduction":10.66667,
+  "drawer":{
+    "type":"DrawMulti",
+    "drawers":[
+      {
+        "type":"DrawRegion",
+        "suffix":"-bottom"
+      },
+      {
+        "type":"DrawRegion",
+        "suffix":"-rotor",
+        "spinSprite":true,
+        "rotateSpeed":8
+      },
+      {"type":"DrawDefault"}
+    ]
+  },
+  "conductivePower":true,
+  "group":"power"
+}
