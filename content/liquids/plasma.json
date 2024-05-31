@@ -1,0 +1,10 @@
+{
+  "temperature":17,
+  "heatCapacity":0,
+  "gas":true,
+  "coolant":false,
+  "viscosity": 0.04,
+  "effect": "melting",
+  "color": "fcfcd0",
+  "gasColor": "fcfcd0"
+}

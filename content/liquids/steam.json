@@ -1,0 +1,9 @@
+{
+  "temperature": 0.75,
+  "heatCapacity": 0,
+  "gas":true,
+  "coolant":false,
+  "viscosity": 0.2,
+  "color": "edfafe",
+  "gasColor": "edfafe"
+}
