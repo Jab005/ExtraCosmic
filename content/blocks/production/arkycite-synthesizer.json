@@ -1,0 +1,45 @@
+{
+  "type":"GenericCrafter",
+  "size":3,
+  "health":980,
+  "category":"crafting",
+  "requirements":["beryllium/70","silicon/60","tungsten/40","oxide/20"],
+  "research":{"parent":"oxidation-chamber","objectives":["arkycite"],"requirements":["beryllium/140","silicon/100","tungsten/80","oxide/50"]},
+  "outputLiquids":["arkycite/0.66667"],
+  "craftTime":96,
+  "consumes":{"liquids":["water/0.66667"],"items":["beryllium/6"],"power":2},
+  "hasLiquids":true,
+  "liquidCapacity":100,
+  "itemCapacity":30,
+  "squareSprite":false,
+  "fogRadius":5,
+  "drawer": {
+    "type":"DrawMulti",
+    "drawers":[
+      {
+        "type":"DrawRegion",
+        "suffix":"-bottom"
+      },
+      {
+        "type":"DrawLiquidRegion",
+        "suffix":"-water",
+        "drawLiquid":"water"
+      },
+      {
+        "type":"DrawLiquidRegion",
+        "suffix":"-arkycite",
+        "drawLiquid":"arkycite"
+      },
+      {
+        "type":"DrawRegion",
+        "suffix":"-rotor",
+        "spinSprite":true,"rotateSpeed":8
+      },
+      {
+        "type":"DrawRegion",
+        "suffix":"-top"
+      },
+      {"type":"DrawDefault"}
+    ]
+  }
+}

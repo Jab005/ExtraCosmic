@@ -1,0 +1,11 @@
+{
+  "type":"CanvasBlock",
+  "size":1,
+  "health":120,
+  "category":"logic",
+  "requirements":["jab-ec-techronite/1","silicon/1"],
+  "research":{"parent":"jab-ec-tech-kreten","item":"jab-ec-techronite"}
+  "researchCostMultiplier":5,
+  "canvasSize":32,
+  "palette":[255,4294967295,4278190335,16711935,65535,4294902015,4278255615,16777215,838886655,4287103231,2868838655,16760575,8126463,3860332543]
+}

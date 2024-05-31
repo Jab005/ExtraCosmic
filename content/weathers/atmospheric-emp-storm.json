@@ -1,0 +1,14 @@
+{
+  "type": "ParticleWeather",
+  "status": "jab-ec-emp",
+  "statusDuration": 428,
+  "opacityMultiplier": 0.35,
+  //"color": "fff958",
+  "noiseColor": "497be0",
+  "drawNoise": true,
+  "drawParticles": false,
+  "baseSpeed": 0.01,
+  "useWindVector": false,
+  "statusGround": false,
+  "attrs":[{"magnetism":-0.4}]
+}

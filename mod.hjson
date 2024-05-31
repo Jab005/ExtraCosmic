@@ -1,0 +1,14 @@
+name: "jab-ec"
+displayName: "Extra Cosmic"
+author: "Jab005"
+subtitle: "Thinking overload.."
+minGameVersion: "146"
+hidden: true
+repo: "Jab005/ExtraCosmic"
+hideBrowser: true
+version: "0.0.1 - Early Stage"
+
+description: '''
+Added the most random things to the game that related to author's idea about fiction-cosmic stuff. Also adding some of not cosmic-related things to help you more in game.
+Created by Jab005.
+'''
