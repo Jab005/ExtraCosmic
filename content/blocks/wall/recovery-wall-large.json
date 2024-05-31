@@ -1,0 +1,14 @@
+{
+  "type": "RegenProjector",
+  "category": "defense",
+  "size": 2,
+  "health": 3680,
+  "group": "walls",
+  "requirements": ["beryllium/12","silicon/16","oxide/8"],
+  "consumes": {"power":0.03333},
+  "conductivePower": true,
+  "range": 3,
+  "healPercent": 0.125,
+  "optionalMultiplier": 1,
+  "research": {"parent":"jab-ec-recovery-wall","planet":"erekir","requirements":["beryllium/90","silicon/110","oxide/70"]}
+}

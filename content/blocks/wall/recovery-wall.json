@@ -1,0 +1,14 @@
+{
+  "type": "RegenProjector",
+  "category": "defense",
+  "size": 1,
+  "health": 920,
+  "group": "walls",
+  "requirements": ["beryllium/2","silicon/4","oxide/3"],
+  "range": 1,
+  "healPercent": 0.05,
+  "hasPower": false,
+  "connectedPower": false,
+  "optionalMultiplier": 1,
+  "research": {"parent":"reinforced-surge-wall","planet":"erekir","requirements":["beryllium/60","silicon/120","oxide/80"]}
+}
