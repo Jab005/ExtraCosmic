@@ -9,5 +9,5 @@
   "drawParticles": false,
   "baseSpeed": 0.01,
   "useWindVector": false,
-  "attrs":[{"magnetism":-1}]
+  "attrs":{"magnetism":-1}
 }
