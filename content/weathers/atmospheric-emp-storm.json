@@ -10,5 +10,5 @@
   "baseSpeed": 0.01,
   "useWindVector": false,
   "statusGround": false,
-  "attrs":[{"magnetism":-0.4}]
+  "attrs":{"magnetism":-0.4}
 }
