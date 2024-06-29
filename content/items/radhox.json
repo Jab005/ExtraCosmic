@@ -1,1 +1,1 @@
-{"color":"49ca5f","explosiveness":2.1,"radioactivity":3.4,"hardness":4,"lowPriority":true,"hideDetails":false,"research":{"parent":"jab-ec-chondrite"}}
+{"color":"49ca5f","explosiveness":1.8,"radioactivity":3.2,"hardness":5,"hideDetails":false,"buildable":false,"research":"jab-ec-chondrite"}
