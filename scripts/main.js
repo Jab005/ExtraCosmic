@@ -1,1 +1,6 @@
-let vteam = require("vanilla/team");
+let loadModExtraData = [
+  require("vanilla/team"),
+  require("content/attribute"),
+  require("content/item"),
+  require("content/liquid")
+];

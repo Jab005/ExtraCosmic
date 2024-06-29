@@ -1,1 +1,1 @@
-{"color":"66645e","charge":0.2,"radioactivity":0.3,"explosiveness":0.15,"hardness":1,"research":{"parent":"jab-ec-rheozen"}}
+{"color":"66645e","charge":0.2,"radioactivity":0.2,"explosiveness":0.1,"healthScaling":0.2,"hardness":1,"research":"jab-ec-rheozen"}

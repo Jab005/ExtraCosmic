@@ -1,0 +1,25 @@
+{
+  "type":"Separator",
+  "size":2,
+  "health":220,
+  "category":"crafting",
+  "requirements":["jab-ec-tenzlum/20","jab-ec-candrum/45"],
+  //"research":{""},
+  "craftTime":14,
+  "results":["jab-ec-rheozen/5","jab-ec-candrum/5","jab-ec-carbon/1","jab-ec-chondust/7","jab-ec-caltric/3"],
+  "consumes":{
+    "items":["jab-ec-chondrite/1"],
+    "power":1.83334
+  },
+  "itemCapacity":15,
+  "drawer":{
+    "type":"DrawMulti",
+    "drawers":[
+      {"type":"DrawRegion","suffix":"-bottom"},
+      {"type":"DrawRegion","suffix":"-rot1","spinSprite":true,"rotateSpeed":4.5},
+      {"type":"DrawRegion","suffix":"-rot2","spinSprite":true,"rotateSpeed":-4.5},
+      {"type":"DrawDefault"},
+      {"type":"DrawFade","alpha":1,"scale":10}
+    ]
+  }
+}

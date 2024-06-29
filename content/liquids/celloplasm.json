@@ -1,0 +1,2 @@
+//type:CellLiquid,colorFrom:c65fff,colorTo:705fff,cells:12,spreadTarget:chloroine,maxSpread:0.9,spreadConversion:1.5,spreadDamage:0.43,removeScaling:0.3
+{"color":"6831ff","viscosity":0.8,"coolant":false,"temperature":0.65,"heatCapacity":0.85,"moveThroughBlocks":true,"incinerable":false,"boilPoint":0.9}

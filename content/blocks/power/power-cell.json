@@ -1,0 +1,12 @@
+{
+  "type":"Battery",
+  "size":2,
+  "health":340,
+  "category":"power",
+  "requirements":["jab-ec-tenzlum/25","jab-ec-antalumite/30","jab-ec-rheozen/20"],
+  "research":"jab-ec-laser-pole",
+  "researchCostMultiplier":3,
+  "squareSprite":false,
+  "consumes":{"powerBuffered":12700},
+  "emptyLightColor":"0c0b3b","fullLightColor":"3febff"
+}

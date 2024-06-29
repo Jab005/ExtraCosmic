@@ -1,1 +1,1 @@
-{"color":"88b2c2","radioactivity":0.5,"charge":0.6,"healthScaling":1.2,"cost":5,"hardness":5,"hideDetails":false,"research":{"parent":"jab-ec-chondrite"}}
+{"color":"88b2c2","radioactivity":0.6,"charge":0.8,"healthScaling":1.2,"cost":5,"hardness":6,"hideDetails":false,"research":"jab-ec-chondrite"}

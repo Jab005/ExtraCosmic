@@ -1,0 +1,23 @@
+{
+  "type":"GenericCrafter",
+  "size":2,
+  "health":240,
+  "category":"crafting",
+  "requirements":["jab-ec-rheozen/20","jab-ec-candrum/35","jab-ec-caltric/25"],
+  //"research":{},
+  "consumes":{
+    "items":["jab-ec-chondust/3","jab-ec-carbon/1"],
+    "power":0.65
+  },
+  "outputItem":"jab-ec-antalumite/1",
+  "craftTime":40,
+  "itemCapacity":15,
+  "drawer":{
+    "type":"DrawMulti",
+    "drawers":[
+      {"type":"DrawRegion","suffix":"-bottom"},
+      {"type":"DrawFlame","flameColor":"f1ecad"},
+      {"type":"DrawDefault"}
+    ]
+  }
+}

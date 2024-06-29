@@ -1,0 +1,33 @@
+{
+  "type":"PowerTurret",
+  "size":2,
+  "health":540,
+  "category":"effect",
+  "requirements":["jab-ec-rheozen/80","jab-ec-antalumite/40","jab-ec-candrum/30"],
+  "research":{"parent":"jab-ec-thunder","requirements":["jab-ec-rheozen/200","jab-ec-antalumite/80","jab-ec-candrum/50"]},
+  "shootType":{
+    "type":"ExplosionBulletType","killShooter":false,
+    "reflectable":false,"absorbable":false,
+    "status":"jab-ec-suspended","statusDuration":100,
+    "ammoMultiplier":1,
+    "splashDamage":0.00001,"splashDamageRadius":123,"splashDamagePierce":true,
+    "shootEffect":"none","hitEffect":"none","despawnEffect":"none",
+  },
+  "playerControllable":false,
+  "predictTarget":false,
+  "alwaysShooting":true,
+  "shootCone":360,
+  "shootY":-2,
+  "recoil":0,
+  "reload":60,
+  "range":123,
+  "rotateSpeed":0,
+  "consumes":{"power":0.33334},
+  "squareSprite":false,
+  "schematicPriority":-20,
+  "drawer":{
+    "type":"DrawTurret",
+    "basePrefix":"base-",
+    "parts":[{"type":"RegionPart","outline":false}]
+  }
+}

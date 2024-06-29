@@ -21,7 +21,7 @@
     "incendAmount":4,"incendChance":0.6,
     "fragBullets":1,"fragBullet":{
       "type":"ExplosionBulletType",
-      "damage":0.00001,"splashDamage":280,"splashDamageRadius":20,"splashDamagePierce":true,"killShooter":false,"collides":true,
+      "damage":0.00001,"splashDamage":280,"splashDamageRadius":20,"splashDamagePierce":true,"killShooter":false,
       "knockback":3,"impact":true
     }
   },

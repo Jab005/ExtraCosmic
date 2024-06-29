@@ -1,0 +1,22 @@
+{
+  "type":"BeamNode",
+  "size":3,
+  "health":1120,
+  "category":"power",
+  "requirements":["jab-ec-tenzlum/30","jab-ec-deltacrone/20","jab-ec-antalumite/35","jab-ec-caltric/15"],
+  "research":"jab-ec-laser-pole",
+  "researchCostMultipliers":{
+    "jab-ec-tenzlum":5,
+    "jab-ec-deltacrone":6.5,
+    "jab-ec-antalumite":7,
+    "jab-ec-caltric":8
+  },
+  "squareSprite":false,
+  "range":28,
+  "laserWidth":0.8,"pulseScl":6,"pulseMag":0.1,
+  "laserColor1":"fff035","laserColor2":"ff7931",
+  "consumesPower":true,"outputsPower":true,
+  "consumes":{
+    "powerBuffered":38000
+  }
+}

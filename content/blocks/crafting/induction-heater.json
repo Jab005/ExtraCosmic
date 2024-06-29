@@ -1,0 +1,20 @@
+{
+  "type":"HeatProducer",
+  "size":2,
+  "health":230,
+  "category":"crafting",
+  "requirements":["jab-ec-tenzlum/40","jab-ec-antalumite/30","jab-ec-candrum/60","jab-ec-caltric/20"],
+  //research:{},
+  "consumes":{
+    "power":1.2
+  },
+  "heatOutput":6,"warmupRate":0.03334,"warmupSpeed":0.03334,
+  "craftTime":60,
+  "drawer":{
+    "type":"DrawMulti",
+    "drawers":[
+      {"type":"DrawRegion","suffix":"-bottom"},
+      {"type":"DrawDefault"},{"type":"DrawHeatOutput"}
+    ]
+  }
+}

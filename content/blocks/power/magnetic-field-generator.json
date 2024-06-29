@@ -2,12 +2,11 @@
   "type":"ThermalGenerator",
   "size":2,
   "health":820,
-  "requirements":["jab-ec-rheozen/18","jab-ec-candrum/8"],
+  "requirements":["jab-ec-rheozen/18","jab-ec-candrum/12"],
   "category":"power",
   "research":{"parent":"jab-ec-tech-kreten","requirements":["jab-ec-rheozen/36","jab-ec-candrum/18"]}
   "attribute": "magnetism",
-  "displayEfficiencyScale":0.25,
-  "powerProduction":10.66667,
+  "powerProduction":2.66667,
   "drawer":{
     "type":"DrawMulti",
     "drawers":[

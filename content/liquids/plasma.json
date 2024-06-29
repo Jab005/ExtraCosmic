@@ -1,10 +1,1 @@
-{
-  "temperature":17,
-  "heatCapacity":0,
-  "gas":true,
-  "coolant":false,
-  "viscosity": 0.04,
-  "effect": "melting",
-  "color": "fcfcd0",
-  "gasColor": "fcfcd0"
-}
+{"color":"fcfcd0","effect":"melting","viscosity": 0.1,"gas":true,"heatCapacity":0,"temperature":12.75,"incinerable":false,"boilPoint":100}
