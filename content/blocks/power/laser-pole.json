@@ -1,0 +1,17 @@
+{
+  "type":"BeamNode",
+  "size":1,
+  "health":60,
+  "category":"power",
+  "requirements":["jab-ec-rheozen/6"],
+  "research":"jab-ec-magnetic-field-generator",
+  "researchCostMultiplier":3,
+  "squareSprite":false,
+  "range":8,
+  "laserWidth":0.3,"pulseScl":8,"pulseMag":0.2,
+  "laserColor1":"fff035","laserColor2":"ff7931",
+  "consumesPower":true,"outputsPower":true,
+  "consumes":{
+    "powerBuffered":2500
+  }
+}

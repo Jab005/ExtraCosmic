@@ -1,0 +1,14 @@
+{
+  "type":"PowerNode",
+  "size":1,
+  "health":80,
+  "category":"power",
+  "requirements":["jab-ec-rheozen/8","jab-ec-candrum/6"],
+  "research":"jab-ec-laser-pole",
+  "researchCostMultiplier":4,
+  "squareSprite":false,
+  "laserRange":5.35,
+  "maxNodes":6,
+  "laserScale":0.3,
+  "laserColor1":"fff035","laserColor2":"ff7931"
+}

@@ -1,0 +1,14 @@
+{
+  "type":"PowerNode",
+  "size":2,
+  "health":170,
+  "category":"power",
+  "requirements":["jab-ec-tenzlum/12","jab-ec-antalumite/8","jab-ec-candrum/8","jab-ec-caltric/6"],
+  "research":"jab-ec-web-node",
+  "researchCostMultiplier":5.75,
+  "squareSprite":false,
+  "laserRange":13.85,
+  "maxNodes":11,
+  "laserScale":0.635,
+  "laserColor1":"fff035","laserColor2":"ff7931"
+}
