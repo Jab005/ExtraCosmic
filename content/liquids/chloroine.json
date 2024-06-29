@@ -1,0 +1,2 @@
+//type:CellLiquid,colorFrom:007c03,colorTo:23ed28,cells:8,maxSpread:0.1,spreadConversion:1,spreadDamage:0,removeScaling:0.3
+{"color":"0c9010","flammability":1,"viscosity":0.7,"coolant":false,"research":"jab-ec-gelatinol"}
