@@ -1,0 +1,23 @@
+{
+  "type":"GenericCrafter",
+  "size":2,
+  "health":200,
+  "category":"crafting",
+  "requirements":["jab-ec-rheozen/20","jab-ec-candrum/30"],
+  //"research":{},
+  "consumes":{
+    "items":["jab-ec-chondust/3"],
+    "power":0.7
+  },
+  "outputItem":"jab-ec-chondrite/1",
+  "itemCapacity":15,
+  "craftTime":36,
+  "drawer":{
+    "type":"DrawMulti",
+    "drawers":[
+      {"type":"DrawRegion","suffix":"-bottom"},
+      {"type":"DrawPistons","angleOffset":45,"sinMag":3,"sinScl":4.5},
+      {"type":"DrawDefault"}
+    ]
+  }
+}
